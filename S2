@@ -1,0 +1,13 @@
+mgmt_p: 10.0.120.212
+SDN : 10.10.11.12
+vlans:
+brown
+id: 10
+blue
+id: 20
+green
+id: 30
+ports
+1: [ 15 ]
+2: [ 20 ]
+3: [10, 20]
